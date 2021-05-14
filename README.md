@@ -1,2 +1,0 @@
-# pubg
-developed byb me
