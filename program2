@@ -9,7 +9,7 @@ int main()
 	
 	printf("you got grade A");
      } 
-	else if(marks >=65){
+	else if(marks >=70){
 	
 	printf("you got grade B");
     }
@@ -21,7 +21,7 @@ int main()
 	
 	printf("you got grade D");
     }
-	else if(marks <45){
+	else if(marks <40){
 	
 	printf("you got  Failed");
     }  
